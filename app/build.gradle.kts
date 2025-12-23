@@ -65,8 +65,14 @@ dependencies {
     kapt(libs.androidx.room.compiler)
     implementation(libs.androidx.room.ktx)
 
-    // Material Design
+    // Material Design (AppBarLayout, BottomNavigationView 等)
     implementation("com.google.android.material:material:1.11.0")
+    
+    // AppCompat (必需的基础库)
+    implementation("androidx.appcompat:appcompat:1.6.1")
+    
+    // Constraint Layout
+    implementation("androidx.constraintlayout:constraintlayout:2.1.4")
 
     // RecyclerView
     implementation("androidx.recyclerview:recyclerview:1.3.2")
