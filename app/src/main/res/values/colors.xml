@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Material Design 3 - 主色 -->
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
@@ -7,4 +8,25 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- 自定义颜色 -->
+    <!-- 功能色 -->
+    <color name="income_green">#4CAF50</color>      <!-- 收入绿色 -->
+    <color name="expense_red">#F44336</color>       <!-- 支出红色 -->
+    <color name="warning_orange">#FF9800</color>    <!-- 警告橙色 -->
+    <color name="info_blue">#2196F3</color>         <!-- 信息蓝色 -->
+    <color name="disabled_gray">#BDBDBD</color>     <!-- 禁用灰色 -->
+
+    <!-- 背景和文本色 -->
+    <color name="bg_light">#FFFFFF</color>          <!-- 亮模式背景 -->
+    <color name="bg_dark">#121212</color>           <!-- 暗模式背景 -->
+    <color name="text_primary">#1F1F1F</color>      <!-- 主文本颜色 -->
+    <color name="text_secondary">#666666</color>    <!-- 次文本颜色 -->
+    <color name="text_tertiary">#999999</color>     <!-- 三级文本颜色 -->
+    <color name="divider">#E0E0E0</color>           <!-- 分割线颜色 -->
+
+    <!-- 品牌色 -->
+    <color name="primary">#6200EA</color>           <!-- 主色调 -->
+    <color name="primary_light">#BB86FC</color>     <!-- 主色调浅色 -->
+    <color name="primary_dark">#3700B3</color>      <!-- 主色调深色 -->
 </resources>

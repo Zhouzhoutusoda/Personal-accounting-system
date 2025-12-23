@@ -1,3 +1,70 @@
 <resources>
     <string name="app_name">Personal income and expenditure accounting system</string>
+    
+    <!-- 通用 -->
+    <string name="delete">删除</string>
+    <string name="settings">设置</string>
+    <string name="edit">编辑</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="save">保存</string>
+    
+    <!-- 首页 -->
+    <string name="home">首页</string>
+    <string name="my_accounts">我的账本</string>
+    <string name="quick_statistics">快速统计</string>
+    <string name="quick_actions">快速操作</string>
+    <string name="add_account">新增账本</string>
+    <string name="add_expense">记支出</string>
+    <string name="add_income">记收入</string>
+    
+    <!-- 账本相关 -->
+    <string name="account_name">账本名称</string>
+    <string name="account_balance">账本余额</string>
+    <string name="total_balance">总余额</string>
+    <string name="today_expense">今日支出</string>
+    <string name="today_income">今日收入</string>
+    <string name="month_income">本月收入</string>
+    <string name="month_expense">本月支出</string>
+    <string name="month_balance">本月净增</string>
+    <string name="total_account_balance">总账户余额</string>
+    <string name="created_date">创建日期</string>
+    <string name="view_details">查看详情</string>
+    
+    <!-- 记录相关 -->
+    <string name="records">记录</string>
+    <string name="add_record">新增记录</string>
+    <string name="edit_record">编辑记录</string>
+    <string name="delete_record">删除记录</string>
+    <string name="record_title">标题</string>
+    <string name="record_amount">金额</string>
+    <string name="record_category">分类</string>
+    <string name="record_date">日期</string>
+    <string name="record_time">时间</string>
+    <string name="record_note">备注</string>
+    <string name="record_type">类型</string>
+    <string name="income">收入</string>
+    <string name="expense">支出</string>
+    
+    <!-- 分析 -->
+    <string name="statistics">分析</string>
+    <string name="month_statistics">月度统计</string>
+    <string name="category_analysis">分类分析</string>
+    <string name="export_report">导出报表</string>
+    <string name="share">分享</string>
+    
+    <!-- 设置 -->
+    <string name="settings_title">设置</string>
+    <string name="data_management">数据管理</string>
+    <string name="backup_data">备份数据</string>
+    <string name="restore_data">恢复数据</string>
+    <string name="export_data">导出数据</string>
+    <string name="clear_all_data">清空所有数据</string>
+    <string name="appearance">外观</string>
+    <string name="dark_mode">深色模式</string>
+    <string name="theme_color">主题颜色</string>
+    <string name="about">关于</string>
+    <string name="version">版本</string>
+    <string name="check_update">检查更新</string>
+    <string name="feedback">意见反馈</string>
 </resources>
